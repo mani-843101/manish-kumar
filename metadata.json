@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Agri-Expert Regional Advisor",
+  "description": "A real-time, voice-enabled agricultural advisory platform designed for farmers to get expert advice in Marathi, Hindi, and Kannada using natural speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
